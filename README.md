@@ -10,7 +10,7 @@ Plain HTML5 / CSS3 / vanilla JavaScript. No build step — deploy the folder to 
 1. **Photos** — drop files into `assets/images/gallery/`:
    `groom.jpg`, `bride.jpg` (portraits, 3:4) and `photo-01.jpg` … `photo-06.jpg` (gallery).
    Until then, labelled placeholders are shown automatically.
-2. **Share links** — in `index.html` replace `https://YOUR-DOMAIN/` (og:url, og:image, twitter:image)
+2. **Share links** — og:url / og:image / twitter:image in `index.html` point to https://yedugreeshma.vercel.app/. Image: `assets/images/share/og-thumbnail.jpg` (1200×630).
    with the real site address. Image is `assets/images/share/og-thumbnail.jpg` (1200×630).
 3. **Maps buttons** — currently Google Maps *search* links for the two venue names. Replace with the
    venues' own "Share" links from Google Maps once confirmed.
